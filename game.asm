@@ -1,7 +1,6 @@
 ################################################################
 #                                                              #
 #       Lucas Araujo Pena - 130056162                          #
-#       UnB - OAC 2021 - Jacobi                                #
 #                                                              #
 #       Jogo da vida em Assembly RISC-v                        #
 #                                                              #
@@ -62,7 +61,7 @@ loop:
     call    next_gen            # Chama a funcao de gerar a proxima matriz
 
     mv      a0, s0              # Copia Matriz 1
-    mv      a1, s1	            # Copia Matriz 2
+    mv      a1, s1	        # Copia Matriz 2
 
     call    update_m            # Chama a subrotina de atualizacao
 
