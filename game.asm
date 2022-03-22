@@ -2,7 +2,7 @@
 #                                                              #
 #       Lucas Araujo Pena - 130056162                          #
 #                                                              #
-#       Jogo da vida em Assembly RISC-v                        #
+#       Jogo da vida em Assembly RISC-V                        #
 #                                                              #
 #                                                              #
 ################################################################
