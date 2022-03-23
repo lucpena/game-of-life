@@ -5,7 +5,7 @@ First, you need to configure Settings > Memory Configuration like this:
 
 ![img 1](https://github.com/lucpena/game-of-life/blob/main/ss/Imagem1.png)
 
-Then, open the Bitmap Viewer with these configurations:
+Then, open the Tools > Bitmap Viewer with these configurations:
 
 
 ![img 2](https://github.com/lucpena/game-of-life/blob/main/ss/Imagem2.png)
